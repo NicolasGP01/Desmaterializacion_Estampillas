@@ -1,3 +1,3 @@
-# 🎟 🎫 Desmaterializacion Estampillas
+# 🎫 Desmaterializacion Estampillas 🎟
 
 Este repositorio
